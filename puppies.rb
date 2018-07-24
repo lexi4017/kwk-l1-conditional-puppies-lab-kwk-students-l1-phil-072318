@@ -2,7 +2,8 @@
 def no_puppies
   puppies == 0 
     puts "Well done Rachel!"
-   elsif puppies > 0 
+   elsif 
+   puts puppies > 0 
   puts "No more puppies"
 end 
  end
